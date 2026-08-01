@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="140">
+<img src="https://i.ibb.co/y1ybzNg/viper-logo.png" width="140">
 
 # 📦 ViperDrop Mobile
 
