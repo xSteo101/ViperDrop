@@ -8,11 +8,12 @@
 
 Transfer files, folders and text between your Windows PC and Android device over your local network without cloud services.
 
-![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)
+[![Scarica APK](https://img.shields.io/badge/📥%20Scarica%20APK-Ultima%20Versione-success?style=for-the-badge)](https://github.com/xSteo101/ViperDrop-Mobile/releases/latest)
+
+![Android](https://img.shields.io/badge/Android-7.0+-3DDC84?style=for-the-badge&logo=android)
 ![Flutter](https://img.shields.io/badge/Flutter-3.44-blue?style=for-the-badge&logo=flutter)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge)
-[![Scarica APK](https://img.shields.io/badge/📥%20Scarica%20APK-Ultima%20Versione-success?style=for-the-badge)](https://github.com/xSteo101/ViperDrop-Mobile/releases/latest)
 
 </div>
 
