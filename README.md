@@ -9,12 +9,12 @@
 Trasferisci file, cartelle e testo tra PC, telefono e altri PC tramite rete locale, senza utilizzare servizi cloud.
 
 [![Scarica](https://img.shields.io/badge/📥%20Scarica-Ultima%20Versione-success?style=for-the-badge)](https://github.com/xSteo101/ViperDrop/releases/latest)
+[![Scarica APK](https://img.shields.io/badge/📥%20Scarica%20APK-Ultima%20Versione-success?style=for-the-badge)](https://github.com/xSteo101/ViperDrop-Mobile/releases/latest)
 
 ![Versione](https://img.shields.io/badge/Versione-1.5.0-blue?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows)
 ![Linux](https://img.shields.io/badge/Linux-deb%20%7C%20AppImage-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Licenza](https://img.shields.io/badge/Licenza-Proprietaria-lightgrey?style=for-the-badge)
-[![Scarica APK](https://img.shields.io/badge/📥%20Scarica%20APK-Ultima%20Versione-success?style=for-the-badge)](https://github.com/xSteo101/ViperDrop-Mobile/releases/latest)
 
 </div>
 
